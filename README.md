@@ -3,7 +3,7 @@
 ## About me
 
 * 🌍 I'm based in Finland
-* 🎓 I have an M.Sc. in Computer Science
+* 🎓 I have a M.Sc. in Computer Science
 * 💡 I'm interested in software development, algorithms and full stack web development
 * 🚀 I'm always trying to learn new technologies and improve my coding skills
 
